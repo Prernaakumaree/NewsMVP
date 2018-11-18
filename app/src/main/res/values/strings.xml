@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News-MVP</string>
+    <string name="try_again_btn">Retry</string>
+    <string name="message_error_has_occurred">An error has occurred</string>
+</resources>
